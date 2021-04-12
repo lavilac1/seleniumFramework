@@ -1,0 +1,1 @@
+<?xml version="1.0" encoding="utf-8"?><testsuites><testsuite name="pytest" errors="0" failures="0" skipped="0" tests="1" time="19.653" timestamp="2021-02-05T16:43:10.069481" hostname="LAPTOP-T5M4603C"><testcase classname="tst_001.test_001" name="test_001" time="19.235" /></testsuite></testsuites>

@@ -1,0 +1,4 @@
+"Status","Start Time","Stop Time","Duration in ms","Parent Suite","Suite","Sub Suite","Test Class","Test Method","Name","Description"
+"passed","Thu Apr 01 18:59:02 COT 2021","Thu Apr 01 18:59:40 COT 2021","37726","","","","","","Abrir url",""
+"passed","Thu Apr 01 18:59:42 COT 2021","Thu Apr 01 19:00:53 COT 2021","71518","","","","","","Abrir con Navegador",""
+"passed","Thu Apr 01 18:58:37 COT 2021","Thu Apr 01 18:59:01 COT 2021","24427","","","","","","Abrir el navegador",""

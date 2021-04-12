@@ -1,0 +1,31 @@
+[ {
+  "uid" : "646d53f45caeddf1",
+  "name" : "Abrir el navegador",
+  "time" : {
+    "start" : 1617321517024,
+    "stop" : 1617321541451,
+    "duration" : 24427
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "594510476ddfb03f",
+  "name" : "Abrir url",
+  "time" : {
+    "start" : 1617321542442,
+    "stop" : 1617321580168,
+    "duration" : 37726
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "aec4a6318ee412a2",
+  "name" : "Abrir con Navegador",
+  "time" : {
+    "start" : 1617321582254,
+    "stop" : 1617321653772,
+    "duration" : 71518
+  },
+  "status" : "passed",
+  "severity" : "normal"
+} ]

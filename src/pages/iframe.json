@@ -1,0 +1,43 @@
+{
+	"txt_titulo": {
+		"GetFieldBy": "Xpath",
+		"ValueToFind": "//h1[contains(@class,'breadcrumb-item')]"
+	},
+	
+	"fra_frame2": {
+		"GetFieldBy": "Xpath",
+		"ValueToFind": "//iframe[@id='frame2']"
+	},
+	
+	"dpd_animales": {
+		"GetFieldBy": "Xpath",
+		"ValueToFind": "//select[@id='animals']"
+	},
+	
+	"fra_frame1": {
+		"GetFieldBy": "Xpath",
+		"ValueToFind": "//iframe[@id='frame1']"
+	},
+	
+	"txt_topic": {
+		"GetFieldBy": "Xpath",
+		"ValueToFind": "/html[1]/body[1]/input[1]"
+	},
+	
+	"fra_frame3": {
+		"GetFieldBy": "id",
+		"ValueToFind": "frame3"
+	},
+	
+	"chk_options": {
+		"GetFieldBy": "id",
+		"ValueToFind": "a"
+	},
+
+		"text": {
+		"GetFieldBy": "xpath",
+		"ValueToFind": "//*[contains(text(),'{}')]"
+	}
+
+
+}

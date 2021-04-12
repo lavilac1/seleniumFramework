@@ -1,0 +1,14 @@
+{
+	
+	"txt_USUARIO": {
+		"GetFieldBy": "Xpath",
+		"ValueToFind": "//input[contains(@id,'input_username')]"
+	},
+	
+	
+	"txt_CLAVE": {
+		"GetFieldBy": "name",
+		"ValueToFind": "password"
+	}
+
+}

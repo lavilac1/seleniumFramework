@@ -1,0 +1,24 @@
+{
+
+	"lnk_trabaja_amazon": {
+		"GetFieldBy": "link",
+		"ValueToFind": "ATrabaja en Amazon"
+	},
+	
+	"txt_buscar": {
+		"GetFieldBy": "id",
+		"ValueToFind": "search_typeahead"
+	},
+	
+	"txt_ubicacion": {
+		"GetFieldBy": "xpath",
+		"ValueToFind": "//input[contains(@xpath,'1')]"
+	},
+	
+	"btn_buscar": {
+		"GetFieldBy": "id",
+		"ValueToFind": "search-button"
+	}
+
+
+}

@@ -1,0 +1,8 @@
+{
+
+	"txt_buscar": {
+		"GetFieldBy": "Xpath",
+		"ValueToFind": "//input[@name='q']"
+	}
+
+}

@@ -1,0 +1,62 @@
+{
+	"img_logo": {
+		"GetFieldBy": "Xpath",
+		"ValueToFind": "//a[contains(@class,'Header__LogoContainer-nt28l4-2 lXGct')]"
+	},
+
+	"lbl_titulo": {
+		"GetFieldBy": "Xpath",
+		"ValueToFind": "//h2[contains(@class,'Title-nt28l4-1 bkLUvq')]"
+	},
+	
+	"txt_correo": {
+		"GetFieldBy": "id",
+		"ValueToFind": "email"
+	},
+	
+	"txt_confirmarcorre": {
+		"GetFieldBy": "id",
+		"ValueToFind": "confirm"
+	},
+	
+	"txt_contrasena": {
+		"GetFieldBy": "id",
+		"ValueToFind": "password"
+	},
+	
+	"btn_registrate": {
+		"GetFieldBy": "Xpath",
+		"ValueToFind": "//button[@type='submit'][contains(.,'Registrarte')]"
+	},
+	
+	"dpd_mes": {
+		"GetFieldBy": "name",
+		"ValueToFind": "month"
+	},
+	
+	"lbl_errorcorreo": {
+		"GetFieldBy": "Xpath",
+		"ValueToFind": "//span[contains(@class,'LinkContainer-sc-1t58wcv-0 hYhKOQ')]"
+	},
+	
+	"chk_captcha": {
+		"GetFieldBy": "id",
+		"ValueToFind": "recaptcha-anchor"
+	},
+
+	"YaCuenta": {
+		"GetFieldBy": "Xpath",
+		"ValueToFind": "//p[@class='Type__TypeElement-sc-9snywk-0 egucdk']"
+	},
+
+	 "text":{
+    "GetFieldBy": "xpath",
+    "ValueToFind": "//*[contains(text(), '{}')]"
+  }
+	
+		
+
+}
+
+
+  

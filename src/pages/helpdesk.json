@@ -1,0 +1,16 @@
+{
+	"txt_agente": {
+		"GetFieldBy": "id",
+		"ValueToFind": "usuario"
+	},
+	
+	"txt_contrasena": {
+		"GetFieldBy": "name",
+		"ValueToFind": "contrasena"
+	},
+	"btn_aceptar": {
+		"GetFieldBy": "Xpath",
+		"ValueToFind": "//button[contains(.,'Aceptar')]"
+	}
+
+}
